@@ -22,7 +22,7 @@ Weatherbit is open API provides current weather for any point on the globe deriv
   </div></div>
 
 <ol start="2" dir="auto">
-<li>Open Project Repository on Intellij IDE and Run this on the IDE terminal</li>
+<li>Open Project jmx on JMeter and Test Run </li>
 </ol>
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>  $ mvn clean verify</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
