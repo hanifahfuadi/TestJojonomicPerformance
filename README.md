@@ -22,7 +22,7 @@ Weatherbit is open API provides current weather for any point on the globe deriv
   </div></div>
 
 <ol start="2" dir="auto">
-<li>Open Project jmx on JMeter and Test Run </li>
+<li>Open Project jmx on JMeter and Click Start </li>
 </ol>
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>  $ File csv attached. </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
